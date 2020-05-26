@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrionUKWebSite", "OrionUKWebSite\OrionUKWebSite.csproj", "{97F6E21F-F4BA-457D-B4BB-DAE445BFE724}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webapi", "..\DougHulme\webapi\webapi.csproj", "{A6BD0252-3AA7-4A4A-8C45-8FD77CDA8FE5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrionUKWebAPI", "..\DougHulme\webapi\OrionUKWebAPI.csproj", "{A6BD0252-3AA7-4A4A-8C45-8FD77CDA8FE5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OffcomForm", "..\OffcomForm\OffcomForm.csproj", "{84956F5B-F88B-4784-890C-35A7ED899EE9}"
 EndProject

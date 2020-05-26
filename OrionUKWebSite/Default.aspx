@@ -2,41 +2,36 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
-    <div class="jumbotron">
-        <h1>ASP.NET</h1>
-        <p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS, and JavaScript.</p>
-        <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
-    </div>
+   <div class="jumbotron">
+    <h1>Fast internet for Devon and Somerset</h1>
+    <p class="lead">Orion.uk is an Internet Service Provider, delivering fast internet to rural communities in the South West. Our technology delivers high speeds to remote locations for residential and business customers.</p>
+    <p class="lead">We specialise in fixed wireless technology and have a network which spans Devon and Somerset.</p>
+    <p> Our wireless network does not depend on traditional telephone lines. We can even provide internet telephones which completely remove dependence on local telephone lines.    </p>
 
-    <div class="row">
-        <div class="col-md-4">
-            <h2>Getting started</h2>
-            <p>
-                ASP.NET Web Forms lets you build dynamic websites using a familiar drag-and-drop, event-driven model.
-            A design surface and hundreds of controls and components let you rapidly build sophisticated, powerful UI-driven sites with data access.
-            </p>
-            <p>
-                <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301948">Learn more &raquo;</a>
-            </p>
-        </div>
-        <div class="col-md-4">
-            <h2>Get more libraries</h2>
-            <p>
-                NuGet is a free Visual Studio extension that makes it easy to add, remove, and update libraries and tools in Visual Studio projects.
-            </p>
-            <p>
-                <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301949">Learn more &raquo;</a>
-            </p>
-        </div>
-        <div class="col-md-4">
-            <h2>Web Hosting</h2>
-            <p>
-                You can easily find a web hosting company that offers the right mix of features and price for your applications.
-            </p>
-            <p>
-                <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301950">Learn more &raquo;</a>
-            </p>
-        </div>
+
+</div>
+<div class="row">
+    <div class="col-md-3">
+        <h2>RESIDENTIAL</h2>
+        <p>Fast affordable internet at home. Prices start at £30 per month including VAT.</p>
+        <p><a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301870">Learn more &raquo;</a></p>
     </div>
+    <div class="col-md-3">
+        <h2>BUSINESS</h2>
+        <p>Internet services to support small and large businesses. Fixed wireless or traditional fibre/cabling.</p>
+        <p><a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301871">Learn more &raquo;</a></p>
+    </div>
+    <div class="col-md-3">
+        <h2>HOTSPOTS</h2>
+        <p>Growing village network of Orion Wifi Hotspots. Easy access from computers or phones with no installation required.</p>
+        <p><a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301872">Learn more &raquo;</a></p>
+    </div>
+    <div class="col-md-3">
+        <h2>TELEPHONY</h2>
+        <p>Replace your landline for cheaper calls and rental reductions. Even a ‘soft’ switchboard system grouping your staff’s homes and mobiles and passing calls around several locations.</p>
+        <p><a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301872">Learn more &raquo;</a></p>
+    </div>
+</div>
+
 
 </asp:Content>
